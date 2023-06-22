@@ -1,0 +1,16 @@
+html, body{
+    scroll-behavior: smooth;
+    transition: 0.5;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#arte img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: justify;
+}
